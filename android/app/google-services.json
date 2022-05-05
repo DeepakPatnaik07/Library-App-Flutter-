@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046037153128",
+    "project_id": "signin-4f0dc",
+    "storage_bucket": "signin-4f0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046037153128:android:73a135b1e30937f6f582dd",
+        "android_client_info": {
+          "package_name": "com.example.endgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046037153128-93139kdr182hh4cacq89ds8qr7av8uem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpKGfWE1wng_xFexIX41TX_kr8xu_Kgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046037153128-93139kdr182hh4cacq89ds8qr7av8uem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
