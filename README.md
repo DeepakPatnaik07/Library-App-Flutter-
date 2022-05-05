@@ -1,6 +1,6 @@
 # endgame
 
-A new Flutter project.
+A new Flutter project. The Application is basically a book searching App using Google Books API.
 
 ## Getting Started
 
